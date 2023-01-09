@@ -10,11 +10,10 @@ If you want to collaborate or know more about what technical and non-techical sk
 
 ### 👉 [<img align="center" alt="LinkedIn" width="30px" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/mariallaverias/)
 
-</br>
+---
 
 ### 🧰 Languages and Tools
 
-</br>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -25,13 +24,9 @@ If you want to collaborate or know more about what technical and non-techical sk
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="VSCode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br/>
-
 #### ♻️ Practicing
 
 ##### All of the above 👆
-
-<br/>
 
 #### ✏️ Learning more about
 
@@ -40,7 +35,7 @@ If you want to collaborate or know more about what technical and non-techical sk
 <img align="center" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
 <br />
 
-#
+---
 
 ### 📊 Stats - _proud of every little step_
 
