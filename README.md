@@ -2,13 +2,14 @@
 
 I'm a Full Stack Developer with a background in strategic project management.
 
-Currently Teaching Assistant at [CodeOp](https://codeop.tech/) Barcelona, helping other women+ transition to tech like I did, and enjoy every minute about it.
+Currently Teaching Assistant at [CodeOp](https://codeop.tech/) in Barcelona, where I help other women+ transition to tech like I did, and enjoy every minute about it.
 
-Looking for a role in tech to continue strenghtening my technical skills and building things that delight customers.
+Looking for a role in tech to continue strengtening my technical skills and building things that delight customers.
 
-If you want to collaborate, know more about all my professional lives combined or what I bring to the table, please connect!
+If you want to collaborate, know more about all my professional lives combined or what I bring to the table, please connect! 👉
+[<img align="center" alt="LinkedIn" width="30px" style="padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/mariallaverias/)
 
-### 👉 [Linkedin](https://www.linkedin.com/in/mariallaverias/)
+---
 
 ### 🧰 Languages and Tools
 
